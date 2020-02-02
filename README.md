@@ -1,13 +1,11 @@
-# 上传资料暂行办法：如果是文件，则根据当前目录树创建一个文件夹，将资料放到文件夹中；如果是链接，则写到README.md中。  
+### 上传资料暂行办法：如果是文件，则根据当前目录树创建一个文件夹，将资料放到文件夹中；如果是链接，则写到README.md中。  
 
-
+##### 找文献常去：ACL,EMNLP,Coding,AAAI,IJCAI(NLP模块)  
 
 这里是读书会，大家把报告都传到对应的日期里面吧  
 相关资料也可以在这个markdown文件里面编辑添加，学习和分享带来无限进步！！！
-  
-    
+      
 Markdown手册：http://xianbai.me/learn-md/article/about/readme.html
-
 
 读书会的学习路线：  
 首先读web data mining前5章，
